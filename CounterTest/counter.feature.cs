@@ -1,3 +1,0 @@
-﻿#error (1:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got '// ========== Created by Thomas Beck @ 2017 ========== \\'
-#error (2:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got '// ========== This is SpecFlow Testing 2017 ========== \\'
-#error (3:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got '// ========== SpecFlow Testing @via NCrunch ========== \\'
