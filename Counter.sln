@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoTheCounts", "DoTheCounts\DoTheCounts.csproj", "{1F1F9288-5BC8-4A6F-B4CA-453851598BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterTest", "CounterTest\CounterTest.csproj", "{17406ECF-BB6F-4EF0-B7C2-FAF77B14718F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1F9288-5BC8-4A6F-B4CA-453851598BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1F9288-5BC8-4A6F-B4CA-453851598BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1F9288-5BC8-4A6F-B4CA-453851598BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1F9288-5BC8-4A6F-B4CA-453851598BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17406ECF-BB6F-4EF0-B7C2-FAF77B14718F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17406ECF-BB6F-4EF0-B7C2-FAF77B14718F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17406ECF-BB6F-4EF0-B7C2-FAF77B14718F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17406ECF-BB6F-4EF0-B7C2-FAF77B14718F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

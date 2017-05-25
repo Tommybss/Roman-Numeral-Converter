@@ -1,0 +1,6 @@
+c:\users\thomasb\documents\visual studio 2017\Projects\Counter\DoTheCounts\bin\Debug\DoTheCounts.exe.config
+c:\users\thomasb\documents\visual studio 2017\Projects\Counter\DoTheCounts\bin\Debug\DoTheCounts.exe
+c:\users\thomasb\documents\visual studio 2017\Projects\Counter\DoTheCounts\bin\Debug\DoTheCounts.pdb
+c:\users\thomasb\documents\visual studio 2017\Projects\Counter\DoTheCounts\obj\Debug\DoTheCounts.csprojResolveAssemblyReference.cache
+c:\users\thomasb\documents\visual studio 2017\Projects\Counter\DoTheCounts\obj\Debug\DoTheCounts.exe
+c:\users\thomasb\documents\visual studio 2017\Projects\Counter\DoTheCounts\obj\Debug\DoTheCounts.pdb
